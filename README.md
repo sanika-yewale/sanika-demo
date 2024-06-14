@@ -1,3 +1,3 @@
 # sanika-demo
 this is my first  git repository<br>
-Author:sanika yewale
+Author:sanika shankar yewale
